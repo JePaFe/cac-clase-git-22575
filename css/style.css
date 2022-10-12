@@ -1,4 +1,8 @@
 body {
     background-color: aqua;
-    color: #ff0000;
+    color: red;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
